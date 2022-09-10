@@ -1,3 +1,0 @@
-﻿  2022tarc_assessment.c
-C:\Users\JIMMY\Downloads\2022tarc_assessment.c(10,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
-  1.vcxproj -> C:\Users\JIMMY\OneDrive\Desktop\pcd\1\Debug\1.exe
